@@ -1,5 +1,5 @@
 # BASIC-HTML-WITH-CSS-WEBSITE
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
